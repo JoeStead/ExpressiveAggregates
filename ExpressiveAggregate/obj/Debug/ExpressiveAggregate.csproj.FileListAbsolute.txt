@@ -1,0 +1,2 @@
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\ExpressiveAggregate.exe.config
+C:\Users\Joe\Documents\visual studio 2015\Projects\AggregateBdd\ExpressiveAggregate\bin\Debug\ExpressiveAggregate.exe.config

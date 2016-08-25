@@ -1,0 +1,8 @@
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\AggregateBdd.exe.config
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\AggregateBdd.exe
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\AggregateBdd.pdb
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\obj\Debug\AggregateBdd.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\obj\Debug\AggregateBdd.exe
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\obj\Debug\AggregateBdd.pdb
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\Nancy.dll
+c:\users\joe\documents\visual studio 2015\Projects\AggregateBdd\AggregateBdd\bin\Debug\Nancy.xml
