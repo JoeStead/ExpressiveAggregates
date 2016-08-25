@@ -50,8 +50,15 @@
     <Compile Include="Infrastructure\Aggregate.cs" />
     <Compile Include="Event.cs" />
     <Compile Include="Events\EventScheduled.cs" />
+    <Compile Include="Infrastructure\AggregateNotFoundException.cs" />
     <Compile Include="Infrastructure\AggregateRepository.cs" />
+    <Compile Include="Infrastructure\CommandRouter.cs" />
     <Compile Include="Infrastructure\IAggregate.cs" />
+    <Compile Include="Infrastructure\InMemoryEventStore.cs" />
+    <Compile Include="Infrastructure\InvalidAggregateIdException.cs" />
+    <Compile Include="Infrastructure\InvalidAggregateVersionException.cs" />
+    <Compile Include="Infrastructure\StreamConcurrencyException.cs" />
+    <Compile Include="Infrastructure\StreamNotFoundException.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
